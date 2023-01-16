@@ -16,9 +16,9 @@ const villains = {
 }
 
 
-const firstName = ["kent", "Pokoyo", "Pablo", "Joel", "jay", "omar", "maria", "Cobra", "Snake", "Scorpion", "Laptop", "Mouse", "Robin", "Pontus", "Mikael", "Omar", "Hanna", "Abel"]
-const lastName = ["Panna", "Agent", "Torpedden", "Koko", "Moko", "Soco", "Swaelee", "Chacha chacha", "Salsa caliente",
-    "Tomate fresco", "El cabron", "waw", "El mariachi", "El Bandolero", "La bomba", " El Suavecito", "El Matador", "El malo"]
+const firstName = ["kent", "Pokoyo", "hello", "Pablo", "Joel", "jay", "omar", "maria", "Cobra", "Snake", "Scorpion", "Laptop", "Mouse", "Robin", "Pontus", "Mikael", "Omar", "Hanna", "Abel"]
+const lastName = ["Panna", "Agent", "hola", "Torpedden", "Koko", "Moko", "Soco", "Swaelee", "Chacha chacha", "Salsa caliente",
+    "Tomate fresco", "El cabron", "waw", "mola", "El mariachi", "El Bandolero", "La bomba", " El Suavecito", "El Matador", "El malo"]
 const cities = ["Marbella", "Columbia", "Barcelona", "biskopsgården", "systembölaget", "Chicago", "New york", "LA", "Stockholm"]
 const punchLines = ["you a gangster", "Such freaky freak", "You will die!", "Caramba Carambola", "madness", "wiki woooo", "Finish him", "Explode"]
 
