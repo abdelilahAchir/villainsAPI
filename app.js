@@ -11,7 +11,8 @@ const villains = {
         { name: "Mr Freeze", city: "Gotham", punchLine: "Freeze, Im freeze" },
         { name: "Lokero", city: "Malaga", punchLine: "Come la tapa cabron" },
         { name: "Le magician", city: "Magic City", punchLine: "You are a array now" },
-        { name: "Demon", city: "Demon city", punchLine: "you will get burned" }
+        { name: "Demon", city: "Demon city", punchLine: "you will get burned" },
+        { name: "text", city: "test", punchLine: "you will get burned" }
     ]
 }
 
